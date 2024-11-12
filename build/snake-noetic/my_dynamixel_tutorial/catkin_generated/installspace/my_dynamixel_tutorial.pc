@@ -1,0 +1,8 @@
+prefix=/home/rakhat123/lab4_fin/install
+
+Name: my_dynamixel_tutorial
+Description: Description of my_dynamixel_tutorial
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/rakhat123/lab4_fin/devel
+
+Name: robot_control
+Description: Description of robot_control
+Version: 0.0.0
+Cflags: -I/home/rakhat123/lab4_fin/devel/include
+Libs: -L${prefix}/lib 
+Requires: 
